@@ -23,3 +23,25 @@ CRUD Functions includes following Functions:
 5.Search Function
 
 ---------------------------------***********************-----------------------------------
+
+![SplashScreen](https://github.com/JayrajSinh16/crud_app_myTask/assets/123794573/750c9334-e0e9-4392-b997-cef9330a27f7)
+
+
+
+![LoginScreen](https://github.com/JayrajSinh16/crud_app_myTask/assets/123794573/1bdc92a7-6da4-488c-b21f-2f68ca49866f)
+
+
+
+
+![SignUpScreen](https://github.com/JayrajSinh16/crud_app_myTask/assets/123794573/4680ee8a-a83c-4e24-bc05-885f5ab68066)
+
+
+
+
+
+![HomeScreen](https://github.com/JayrajSinh16/crud_app_myTask/assets/123794573/cebb40e7-e7ca-410e-a1ea-a173beed0913)
+
+
+![CreateItemBox](https://github.com/JayrajSinh16/crud_app_myTask/assets/123794573/5b1d7759-9757-49e4-ab57-0eb4318dc76e)
+
+
